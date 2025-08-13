@@ -1,4 +1,5 @@
-## Hi there 👋
+## TODO: Working on an introduction 
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=Low-level+programmer;High-level+programmer;WinAPI+rookie)](https://git.io/typing-svg)
 
 <!--
 **TheSimomi073/TheSimomi073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
