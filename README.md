@@ -1,5 +1,15 @@
-## TODO: Working on an introduction 
+# TODO: Working on an introduction 
 [![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=Low-level+programmer;High-level+programmer;WinAPI+rookie)](https://git.io/typing-svg)
+
+# Programming languages I'm familiar with
+
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-blue?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+
+
 
 <!--
 **TheSimomi073/TheSimomi073** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
