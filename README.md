@@ -1,7 +1,7 @@
 # TODO: Working on an introduction 
 ![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=Low-level+programmer;High-level+programmer;WinAPI+rookie)
 
-# Some programming languages I'm familiar with
+# Some of the tools I'm familiar with
 
 ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java&logoColor=white)
@@ -10,6 +10,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-darkblue?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%232F61B4?style=for-the-badge&logo=Virtualbox&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-%235586A4?style=for-the-badge&logo=OpenGL&logoColor=white)
 
 
 
