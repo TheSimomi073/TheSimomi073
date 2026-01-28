@@ -1,5 +1,4 @@
-# TODO: Working on an introduction 
-![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=F70000&width=435&lines=Low-level+programmer;High-level+programmer;WinAPI+rookie)
+![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hello!&reversal=true&section=header&textBg=false&fontAlign=50&fontAlignY=40&animation=fadeIn&stroke=222222AA&fontColor=FFFFFF00&strokeWidth=3)
 
 # Some of the tools I'm familiar with
 
