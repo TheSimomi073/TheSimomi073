@@ -25,22 +25,22 @@ As for right now, I'm studying a Computer Science carrier, but I have received V
 # My preferred frameworks
 <details open>
 
-<h3 align="center">Web development frameworks</h3>
+<h3 align="center">Web development</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=react" alt="React">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS">
+    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React">
+    <img src="https://skillicons.dev/icons?i=tailwind" title="TailwindCSS" alt="TailwindCSS">
 </p>
 
 <h3 align="center">Mobile development</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android studio">
-    <img src="https://skillicons.dev/icons?i=react" alt="React Native">
+    <img src="https://skillicons.dev/icons?i=androidstudio" title="Android studio" alt="Android studio">
+    <img src="https://skillicons.dev/icons?i=react" title="React Native" alt="React Native">
 </p>
 
 <h3 align="center">Game development</h3>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
-    <img src="https://skillicons.dev/icons?i=godot" alt="Godot">
+    <img src="https://skillicons.dev/icons?i=unity" title="Unity" alt="Unity">
+    <img src="https://skillicons.dev/icons?i=godot" title="Godot" alt="Godot">
 </p>
 
 </details>
