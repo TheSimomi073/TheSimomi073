@@ -24,19 +24,19 @@ As for right now, I'm studying a Computer Science carrier, but I have received V
 
 # My preferred frameworks
 
-<p align="center" style="font-size: 1.2em; font-weight: bold;">Web development frameworks</p>
+<h3 align="center">Web development frameworks</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=react" alt="React">
     <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS">
 </p>
 
-<p align="center" style="font-size: 1.2em; font-weight: bold;">Mobile development</p>
+<h3 align="center">Mobile development</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android studio">
     <img src="https://skillicons.dev/icons?i=react" alt="React Native">
 </p>
 
-<p align="center" style="font-size: 1.2em; font-weight: bold;">Game development</p>
+<h3 align="center">Game development</h3>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
     <img src="https://skillicons.dev/icons?i=godot" alt="Godot">
