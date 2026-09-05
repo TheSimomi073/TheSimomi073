@@ -1,0 +1,29 @@
+<svg viewBox="0 0 900 180" fill="black" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="120" y1="20" x2="780" y2="160" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#58A6FF"/>
+      <stop offset="0.5" stop-color="#A371F7"/>
+      <stop offset="1" stop-color="#F778BA"/>
+    </linearGradient>
+  </defs>
+
+  <text
+    x="450"
+    y="105"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="38"
+    font-weight="700"
+    fill="url(#gradient)">
+    Hello there, I'm Manuel
+  </text>
+
+  <rect
+    x="265"
+    y="122"
+    width="370"
+    height="3"
+    rx="1.5"
+    fill="url(#gradient)"
+  />
+</svg>

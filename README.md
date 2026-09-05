@@ -1,7 +1,7 @@
 <div align="center">
-    <div style="font-size: 2em; font-weight: bold;"> -- Hello there, I'm Manuel --</div>
-    <div style="font-size: 1.1em;">I like abstractions. I also like knowing what's underneath them.</div>
-    <div style="font-size: 1.1em;">
+    <img src="assets/hello.svg">
+    <div>I like abstractions. I also like knowing what's underneath them.</div>
+    <div>
         <a href="www.linkedin.com/in/manuel-arce-moyano-9aa56037a">Linkedin</a>
     </div>
     <br>
