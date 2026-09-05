@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Hello there, I'm Manuel</h1>
-    <strong>I like abstractions. I also like knowing what's underneath them.</stro>
+    <strong>I like abstractions. I also like knowing what's underneath them.</strong>
     <div>
         <a href="www.linkedin.com/in/manuel-arce-moyano-9aa56037a">Linkedin</a>
     </div>
