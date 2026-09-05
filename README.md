@@ -23,6 +23,7 @@ As for right now, I'm studying a Computer Science carrier, but I have received V
 </p>
 
 # My preferred frameworks
+<details open>
 
 <h3 align="center">Web development frameworks</h3>
 <p align="center">
@@ -41,6 +42,8 @@ As for right now, I'm studying a Computer Science carrier, but I have received V
     <img src="https://skillicons.dev/icons?i=unity" alt="Unity">
     <img src="https://skillicons.dev/icons?i=godot" alt="Godot">
 </p>
+
+</details>
 
 ![](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&section=footer&reversal=true&desc=Goodbye&descAlign=50&descAlignY=66&descSize=24)
 <!--
